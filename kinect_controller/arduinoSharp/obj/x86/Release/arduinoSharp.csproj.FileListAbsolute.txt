@@ -1,0 +1,72 @@
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\bin\Release\arduinoSharp.exe
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\bin\Release\arduinoSharp.pdb
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\MainWindow.baml
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\MainWindow.g.cs
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\App.g.cs
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp_MarkupCompile.cache
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.g.resources
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.exe
+C:\Users\david\Dropbox\IDEA9201-02\Labs\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.pdb
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.exe
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.pdb
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\bin\Release\arduinoSharp.exe
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\bin\Release\arduinoSharp.pdb
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\MainWindow.baml
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\MainWindow.g.cs
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\App.g.cs
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp_MarkupCompile.cache
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.g.resources
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\FinalLab\arduinoSharp\arduinoSharp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.exe
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.pdb
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\arduinoSharp.exe
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\arduinoSharp.pdb
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\MainWindow.baml
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\MainWindow.g.cs
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\App.g.cs
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp_MarkupCompile.cache
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.g.resources
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\david\Dropbox\IDEA9201-02\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.exe
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.pdb
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\MainWindow.baml
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\MainWindow.g.cs
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\App.g.cs
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp_MarkupCompile.cache
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.g.resources
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\arduinoSharp.exe
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\arduinoSharp.pdb
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.exe
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.pdb
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\arduinoSharp.exe
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\arduinoSharp.pdb
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\MainWindow.baml
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\MainWindow.g.cs
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\App.g.cs
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp_MarkupCompile.cache
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp.g.resources
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\VoIPSDK.dll
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\irrKlang.NET4.dll
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\VoIPSDK.dll
+C:\Users\Intern\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp_Content.g.cs
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\irrKlang.NET4.dll
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\bin\Release\NAudio.dll
+C:\Users\david\Dropbox\IDEA9201-02\Labs\Assignments\Lab Device\arduinoSharp\arduinoSharp\obj\x86\Release\arduinoSharp_Content.g.cs

@@ -1,0 +1,18 @@
+﻿<Window x:Class="talkBot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="700"
+        Loaded="Window_Loaded" Closed="Window_Closed">
+    <StackPanel Orientation="Vertical">
+        <StackPanel Orientation="Horizontal" >
+            <Canvas Width="320" Height="240" Name="skeleton" Margin="10 0 10 10" Background="Black" ClipToBounds="True"/>
+            <Image Width="320" Height="240" Name="depth" Margin="10 0 10 10" ClipToBounds="True"/>
+        </StackPanel>
+        <TextBlock FontSize="18" Name="Debug"/>
+        <TextBlock FontSize="18" Name="serialTimerDebug"/>
+        <TextBlock FontSize="18" Name="staticTimerDebug"/>
+        <TextBlock FontSize="18" Name="softPhoneDebug"/>
+        <TextBlock FontSize="18" Name="unansweredTimerDebug"/>
+        <TextBlock FontSize="18" Name="audioDebug"/>
+</StackPanel>
+</Window>
